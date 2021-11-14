@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Interface
+namespace S.Core.DataTypes
 {
     public class Class1
     {

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>29e123fe-1378-4618-849c-6bcd0591588c</ProjectGuid>
+    <ProjectGuid>ea791dcf-cab6-4259-bf33-b165de5a3661</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>S.Domain.Model</RootNamespace>
-    <AssemblyName>S.Domain.Model</AssemblyName>
+    <RootNamespace>S.Core.Utility</RootNamespace>
+    <AssemblyName>S.Core.Utility</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

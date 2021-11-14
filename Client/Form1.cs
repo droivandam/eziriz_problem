@@ -1,12 +1,11 @@
-﻿using System;
+﻿using S.Domain.Logic;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Globalization;
 using System.Linq;
 using System.Text;
-using System.Threading;
 using System.Windows.Forms;
 
 namespace Client
@@ -16,8 +15,10 @@ namespace Client
         public Form1()
         {
             InitializeComponent();
-            
-            
+
+            hw_id_value.Text = Info.GetHardwareID();
         }
+
+        
     }
 }

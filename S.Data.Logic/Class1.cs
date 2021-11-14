@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Data.Logic
+namespace S.Data.Logic
 {
     public class Class1
     {
